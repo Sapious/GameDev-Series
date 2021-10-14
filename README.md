@@ -9,7 +9,7 @@ The sessions are streamed live on each Wednesday at 20:00 :
 
 # The Journey so Far!
 - [x] Game I : Green Light Red Light
-- [ ] Game II : UNKNOWN
+- [ ] Game II : AI system
 - [ ] Game III : UNKNOWN
 - [ ] Game IV : UNKNOWN
 - [ ] Game V : UNKNOWN
